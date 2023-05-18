@@ -1,4 +1,4 @@
-This repository incldues the solutions to Questions 1,2 an 4 from the screening test by Picovoice. 
+This repository incldues the solutions to Questions 1,2 an 4 from the screening test by Picovoice. You may be able to come up with a better solution. 
 
 In Question.1, although factorial and combinations exist as functions in Python libraries, they are written from scratch. 
 
